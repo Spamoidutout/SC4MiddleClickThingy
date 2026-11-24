@@ -1,0 +1,14 @@
+LIBRARY kernel32.dll
+EXPORTS
+CreateFileA@28
+WriteFile@20
+CloseHandle@4
+GetModuleFileNameA@12
+GetTickCount@0
+GetLocalTime@4
+LoadLibraryA@4
+GetProcAddress@8
+ExitProcess@4
+GetStdHandle@4
+Sleep@4
+GetCurrentThreadId@0

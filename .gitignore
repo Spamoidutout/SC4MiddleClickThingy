@@ -1,0 +1,8 @@
+# Build and test outputs
+build/out/
+test/out/
+*.dll
+*.obj
+*.lib
+*.exe
+*.log

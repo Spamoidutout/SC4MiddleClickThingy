@@ -1,0 +1,9 @@
+LIBRARY user32.dll
+EXPORTS
+GetForegroundWindow@0
+GetCursorPos@4
+WindowFromPoint@8
+GetAncestor@8
+SetWindowsHookExA@16
+UnhookWindowsHookEx@4
+CallNextHookEx@16
